@@ -15,6 +15,11 @@ const addtask=()=>{
     }
     input.value="";
 }
+input.addEventListener("keydown",function(e){
+   if (e.key === "Enter") {
+        addtask();
+    }
+});
 tasks.addEventListener("click",function(e){
     if(e.target.tagName==="LI"){
         e.target.classList.toggle("checked");
