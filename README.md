@@ -17,19 +17,14 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 ### ✅ Home Screen
 ![Home](images/Screenshot%20(21).png)
 
-### ➕ Adding Tasks
 ![Add Tasks](images/Screenshot%20(22).png)
 
-### 🗑️ Deleting Tasks
 ![Delete](images/Screenshot%20(23).png)
 
-### ✅ Task Completion
 ![Complete](images/Screenshot%20(24).png)
 
-### 📂 Task Persistence (Refresh)
 ![Persist](images/Screenshot%20(26).png)
 
-### 🔀 Rearranging via Drag & Drop
 ![Drag Drop](images/Screenshot%20(27).png)
 
 ---
