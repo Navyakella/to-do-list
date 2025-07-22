@@ -1,5 +1,6 @@
 const input=document.querySelector("#input");
 const tasks=document.querySelector("#list");
+const btn=document.querySelector("#btn");
 const addtask=()=>{
     if(input.value===""){
         alert("please add a task");
